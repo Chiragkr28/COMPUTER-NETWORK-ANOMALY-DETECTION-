@@ -78,6 +78,7 @@ We improve attack classification by handling **class imbalance** with **SMOTE** 
 ## 📥 Installation
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/nids-project.git
-cd nids-project
+git clone https://github.com/Chiragkr28/COMPUTER-NETWORK-ANOMALY-DETECTION-.git
+cd COMPUTER-NETWORK-ANOMALY-DETECTION-
 pip install -r requirements.txt
+
